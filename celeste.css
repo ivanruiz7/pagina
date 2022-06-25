@@ -1,0 +1,119 @@
+body{
+    background: rgb(193,209,233);
+background: linear-gradient(90deg,rgb(193,209,233) 0%, rgb(92,146,228) 20%);
+background: -webkit-linear-gradient(90deg,rgb(193,209,233) 0%, rgb(92,146,228) 20%);
+background: -moz-linear-gradient(90deg,rgb(193,209,233) 0%, rgb(92,146,228) 20%);
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 12px;
+    
+}
+.nubes{
+    width: 450px;s
+    height: 150px;
+    background-color: white;
+    border-radius: 101px 101px 101px 101px;
+-webkit-border-radius: 101px 101px 101px 101px;
+-moz-border-radius: 101px 101px 101px 101px;
+border: 2px solid rgb(219, 235, 234);
+padding: 15px ;
+margin-top: 10%;
+margin-left: 0% ;
+box-shadow: -31px 26px 5px -3px rgba(15,15,15,0.79);
+-webkit-box-shadow: -31px 26px 5px -3px rgba(15,15,15,0.79);
+-moz-box-shadow: -31px 26px 5px -3px rgba(15,15,15,0.79);
+}
+.nubes1{
+    width: 450px;s
+    height: 150px;
+    background-color: white;
+    border-radius: 101px 101px 101px 101px;
+-webkit-border-radius: 101px 101px 101px 101px;
+-moz-border-radius: 101px 101px 101px 101px;
+border: 2px solid rgb(219, 235, 234);
+padding: 15px ;
+margin-left: 64% ;
+box-shadow: 34px 22px 0px 0px rgba(15,15,15,0.75);
+-webkit-box-shadow: 34px 22px 0px 0px rgba(15,15,15,0.75);
+-moz-box-shadow: 34px 22px 0px 0px rgba(15,15,15,0.75);
+margin-top: -220px;
+
+    
+}
+p{
+    text-align: center;
+}
+.sol{
+   left: 50%;
+    font-size: 200px;
+   color: yellow;
+   cursor: pointer;
+}
+
+.sol :hover ::before {
+    color: rgb(253, 253, 8);
+    filter: grayscale(47%) brightness(129%) saturate(287%) contrast(131%) invert(10%);
+-webkit-filter: grayscale(47%) brightness(129%) saturate(287%) contrast(131%) invert(10%);
+-moz-filter: grayscale(47%) brightness(129%) saturate(287%) contrast(131%) invert(10%);
+    
+   
+
+}
+.nubes2{
+    width: 450px;s
+    height: 150px;
+    background-color: white;
+    border-radius: 101px 101px 101px 101px;
+-webkit-border-radius: 101px 101px 101px 101px;
+-moz-border-radius: 101px 101px 101px 101px;
+border: 2px solid rgb(219, 235, 234);
+padding: 20px ;
+margin-top: 0%;
+margin-left: 32% ;
+box-shadow: -3px 41px 5px -3px rgba(15,15,15,0.79);
+-webkit-box-shadow: -3px 41px 5px -3px rgba(15,15,15,0.79);
+-moz-box-shadow: -3px 41px 5px -3px rgba(15,15,15,0.79);
+
+}
+
+.texto{
+    
+    margin-top: 100px;
+    column-count: 3;
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-gap: 26px;
+    -webkit-column-gap: 26px;
+    -moz-column-gap: 26px;
+    column-rule: 4px double #000000;
+    -webkit-column-rule: 4px double #000000;
+    -moz-column-rule: 4px double #000000;
+}
+
+.pasto{
+    
+    font-size: 4rem;
+    color: red;
+    
+}
+.pasto :hover ::before
+{
+font-size: 10rem;
+}
+.poema{
+    margin-top: 100px;
+    column-count: 3;
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-gap: 26px;
+    -webkit-column-gap: 26px;
+    -moz-column-gap: 26px;
+    column-rule: 4px double #000000;
+    -webkit-column-rule: 4px double #000000;
+    -moz-column-rule: 4px double #000000;
+}
+.fin{
+    font-family: 'Pinyon Script', cursive;
+    font-size: 9;
+}
+
